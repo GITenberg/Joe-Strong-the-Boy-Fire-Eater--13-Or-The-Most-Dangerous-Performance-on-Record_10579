@@ -1,11 +1,16 @@
 _repo: Joe-Strong-the-Boy-Fire-Eater--13-Or-The-Most-Dangerous-Performance-on-Record_10579
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barnum, Vance
     gutenberg_agent_id: '3584'
     url: http://www.gutenberg.org/2009/agents/3584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10579#Joe-Strong-the-Boy-Fire-Eater--13-Or-The-Most-Dangerous-Performance-on-Record
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
